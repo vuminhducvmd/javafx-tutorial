@@ -27,7 +27,7 @@ dependencies {
 
 
 application {
-    mainClass.set("Launcher")
+    mainClass.set("javafx_tutorial.Launcher")
 }
 
 shadowJar {

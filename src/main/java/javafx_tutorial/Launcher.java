@@ -1,3 +1,5 @@
+package javafx_tutorial;
+
 import javafx.application.Application;
 
 /**
